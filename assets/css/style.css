@@ -1,0 +1,23 @@
+body {
+    background-image: url("assets/images/DoctorWhoBackground.jpg");
+}
+
+
+img.align-left { 
+    float: left;
+    margin-right: 10px;
+    width: 250px;
+    height: 250px;
+}
+img.align-center { 
+    display: block;
+    margin: opx auto;
+    width: 250px;
+    height: 250px;
+}
+img.align-right { 
+    float: right;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+}
