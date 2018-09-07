@@ -16,13 +16,6 @@ $(document).ready(function() {
             counterAttack: "30",
             imageUrl: "",
         },
-        "eleventhDoctor": {
-            name: "The Eleventh Doctor",
-            health: "135",
-            attack: "40",
-            counterAttack: "20",
-            imageUrl: "",
-        },
         "daleks": {
             name: "Daleks",
             health: "140",
@@ -35,13 +28,6 @@ $(document).ready(function() {
             health: "120",
             attack: "30",
             counterAttack: "15",
-            imageUrl: "",
-        },
-        "theMaster": {
-            name: "The Master",
-            health: "150",
-            attack: "50",
-            counterAttack: "30",
             imageUrl: "",
         }
     }
